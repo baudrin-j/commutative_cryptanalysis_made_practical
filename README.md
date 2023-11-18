@@ -6,7 +6,7 @@ Volume 2023, Issue 4 of [*IACR Transactions on Symmetric Cryptology*](https://to
 ## Dependencies
  The publicly-available [SboxU library](https://github.com/lpp-crypto/sboxU) is used in some of the files.
  It contains various useful routines for analyzing S-boxes and Boolean functions,
- such as the ```self_affine_equivalent_mappings``` which was added during this project.
+ such as the ```self_affine_equivalent_mappings``` function which was added during this project.
  
  Both ```section_6_verifications.py``` and ```appendix_verifications.py``` were developed with [Python] 3.10(https://www.python.org/) and [SageMath](https://www.sagemath.org/index.html) 9.7.
 
