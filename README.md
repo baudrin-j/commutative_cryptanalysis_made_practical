@@ -8,7 +8,7 @@ Volume 2023, Issue 4 of [*IACR Transactions on Symmetric Cryptology*](https://to
  It contains various useful routines for analyzing S-boxes and Boolean functions,
  such as the ```self_affine_equivalent_mappings``` function which was added during this project.
  
- All scripts were developed with [Python] 3.10(https://www.python.org/) and [SageMath](https://www.sagemath.org/index.html) 9.7.
+ All scripts were developed with [Python](https://www.python.org/) 3.10 and [SageMath](https://www.sagemath.org/index.html) 9.7.
  ```algorithm_1.sage``` additionally requires the python packages ```tabulate``` and ```tqdm``` to be installed.
 
  ## Content
