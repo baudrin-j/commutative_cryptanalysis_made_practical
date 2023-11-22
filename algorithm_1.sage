@@ -115,7 +115,6 @@ def connect_over_linear_layer(sbox_affine_equivalences, L, nbr_sboxes, m):
         block_wise_trail_cores.append(trails)
         
     while True:
-        print(f"Current trail cores: {[len(t) for t in block_wise_trail_cores]}", flush=True)
         # Combine blocks until only one is left
         nbr_blocks = nbr_blocks // 2
         size_block = size_block * 2
