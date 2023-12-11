@@ -1,6 +1,6 @@
 # Commutative Cryptanalysis Made Practical - Supplementary Material
 
-This repository contains supplementary material provided with [our paper]([xxx](https://tosc.iacr.org/)) published in
+This repository contains supplementary material provided with [our paper](https://doi.org/10.46586/tosc.v2023.i4.299-329) published in
 Volume 2023, Issue 4 of [*IACR Transactions on Symmetric Cryptology*](https://tosc.iacr.org/).
 
 ## Dependencies
